@@ -976,7 +976,7 @@
     setFormFeedback("none");
     trimSourceFieldIfNeeded();
     if (!inputEl.value.trim()) {
-      setFormFeedback("error", "Paste HTML or text into Source before extracting.");
+      setFormFeedback("error", "Paste code into Source before extracting.");
       return;
     }
     const urls = extractAll(inputEl.value, null);
