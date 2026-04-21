@@ -10,13 +10,17 @@ Browser extension: paste HTML or plain text, extract PNG URLs (`http(s)`, paths 
 
 ## Demo video
 
-- **Video link**: `PASTE_DEMO_VIDEO_URL_HERE`
+This demo shows how Scar can surface “hidden” media from `mobbin.com` by extracting direct image/GIF/video URLs from pasted HTML/JSON/CSS (including assets buried in payload fields like `screenUrl`). It doesn’t bypass paywalls — it just helps you pull the underlying asset URLs from content that’s already loaded in your browser (i.e., where you already have access).
 
 <details>
-<summary>Embed snippet (optional)</summary>
+<summary>Watch demo</summary>
 
-<video src="PASTE_DEMO_VIDEO_URL_HERE" controls muted playsinline style="max-width: 100%;"></video>
+<video src="../assets/demo.mp4" controls muted playsinline style="max-width: 100%;"></video>
 </details>
+
+## Disclaimer
+
+This tool is intended for **personal use**. Please **respect the Terms of Service** of any website you use it on and only extract/download content you have the rights/permission to access.
 
 ## Install (development / unpacked)
 

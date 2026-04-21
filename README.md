@@ -10,16 +10,18 @@ Extract images, GIFs, and videos from pasted HTML / CSS / JSON / plain text — 
 
 ## Demo video
 
-Add your demo video here (recommended: upload an `.mp4` to a GitHub issue/release, then paste the URL).
-
-- **Video link**: `PASTE_DEMO_VIDEO_URL_HERE`
+This demo shows how Scar can surface “hidden” media from `mobbin.com` by extracting direct image/GIF/video URLs from pasted HTML/JSON/CSS (including assets buried in payload fields like `screenUrl`). It doesn’t bypass paywalls — it just helps you pull the underlying asset URLs from content that’s already loaded in your browser (i.e., where you already have access).
 
 <details>
-<summary>Embed snippet (optional)</summary>
+<summary>Watch demo</summary>
 
-<!-- GitHub supports HTML in READMEs, but MP4 URLs must be publicly accessible. -->
-<video src="PASTE_DEMO_VIDEO_URL_HERE" controls muted playsinline style="max-width: 100%;"></video>
+<!-- Put your video at assets/demo.mp4 -->
+<video src="assets/demo.mp4" controls muted playsinline style="max-width: 100%;"></video>
 </details>
+
+## Disclaimer
+
+This tool is intended for **personal use**. Please **respect the Terms of Service** of any website you use it on and only extract/download content you have the rights/permission to access.
 
 ## Quick start (recommended)
 
