@@ -2,6 +2,12 @@
 
 Browser extension: paste HTML or plain text, extract PNG URLs (`http(s)`, paths ending in `.png`, `data:image/png`, and `blob:` image sources from `<img>` tags), open links in a new tab, copy the list, and preview thumbnails.
 
+[![CI](https://github.com/setjet/scar/actions/workflows/ci.yml/badge.svg)](https://github.com/setjet/scar/actions/workflows/ci.yml)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-6.x-3178C6?logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node-20+-339933?logo=node.js&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?logo=googlechrome&logoColor=white)
+
 ## Install (development / unpacked)
 
 ### Chrome or Edge
