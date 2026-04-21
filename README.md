@@ -16,8 +16,10 @@ This demo shows how Scar can surface “hidden” media from `mobbin.com` by ext
 <summary>Watch demo</summary>
 
 <!-- Put your video at assets/demo.mp4 -->
-<video src="assets/demo.mp4" controls muted playsinline style="max-width: 100%;"></video>
-</details>
+<p align="center" width="100%">
+  <video src="Yassets/demo.mp4" width="80%" controls></video>
+</p>
+
 
 ## Disclaimer
 
