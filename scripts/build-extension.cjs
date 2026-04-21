@@ -5,7 +5,7 @@ const path = require("node:path");
 const esbuild = require("esbuild");
 
 const repoRoot = path.resolve(__dirname, "..");
-const extRoot = path.join(repoRoot, "png-extractor-extension");
+const extRoot = path.join(repoRoot, "extractor");
 const srcRoot = path.join(extRoot, "src");
 const distRoot = path.join(extRoot, "dist");
 

@@ -1,5 +1,9 @@
 import { describe, expect, it } from "vitest";
-import { getPreviewMediaKind, looksLikeGifUrl, looksLikeVideoUrl } from "../png-extractor-extension/src/shared/mediaKind";
+import {
+  getPreviewMediaKind,
+  looksLikeGifUrl,
+  looksLikeVideoUrl
+} from "../extractor/src/shared/mediaKind";
 
 describe("mediaKind", () => {
   it("detects video urls by extension", () => {

@@ -3,5 +3,5 @@ npm-debug.log*
 .DS_Store
 
 # Extension build output
-png-extractor-extension/dist/
+extractor/dist/
 

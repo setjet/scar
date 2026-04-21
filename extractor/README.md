@@ -10,8 +10,8 @@ Browser extension: paste HTML or plain text, extract PNG URLs (`http(s)`, paths 
 2. Turn on **Developer mode**.
 3. Click **Load unpacked**.
 4. Choose this folder:
-   - **Without building**: `png-extractor-extension` (the one that contains `manifest.json`)
-   - **With TypeScript build**: run `npm run build` at repo root, then load `png-extractor-extension/dist`
+   - **Without building**: `extractor` (the one that contains `manifest.json`)
+   - **With TypeScript build**: run `npm run build` at repo root, then load `extractor/dist`
 
 ### Firefox
 
@@ -40,6 +40,6 @@ This repo includes a small TS codebase + bundler that outputs a clean, loadable 
    - `npm install`
    - `npm run build`
 2. Load unpacked:
-   - `png-extractor-extension/dist`
+   - `extractor/dist`
 
-Source code lives under `png-extractor-extension/src/` (popup/background/shared).
+Source code lives under `extractor/src/` (popup/background/shared).

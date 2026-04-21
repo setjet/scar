@@ -10,6 +10,6 @@
     "types": ["node", "chrome"],
     "resolveJsonModule": true
   },
-  "include": ["png-extractor-extension/src/**/*.ts", "tests/**/*.ts"]
+  "include": ["extractor/src/**/*.ts", "tests/**/*.ts"]
 }
 
