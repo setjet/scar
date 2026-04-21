@@ -1,5 +1,8 @@
 # Scar
 
+<img width="420" height="592" alt="2026-04-21 12_32_13-Friends - Discord" src="https://github.com/user-attachments/assets/7e54c5d0-3fcf-4b66-b302-3746e7984498" />
+
+---
 Extract images, GIFs, and videos from pasted HTML / CSS / JSON / plain text — as a Manifest V3 browser extension.
 
 [![CI](https://github.com/setjet/scar/actions/workflows/ci.yml/badge.svg)](https://github.com/setjet/scar/actions/workflows/ci.yml)
@@ -8,15 +11,11 @@ Extract images, GIFs, and videos from pasted HTML / CSS / JSON / plain text — 
 ![Node](https://img.shields.io/badge/Node-20+-339933?logo=node.js&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?logo=googlechrome&logoColor=white)
 
-## Demo video
+## Preview
 
-Scraping “hidden” media from `mobbin.com` (from content you already have access to).
+Scraping “hidden” media blocked by a paywall from `mobbin.com` (from content you already have access to).
 
-Demo: `https://x.com/inthecayenne/status/2045803863597261239?s=20`
-
-## Disclaimer
-
-This tool is intended for **personal use**. Please **respect the Terms of Service** of any website you use it on and only extract/download content you have the rights/permission to access.
+Video: https://x.com/inthecayenne/status/2045803863597261239?s=20
 
 ## Quick start (recommended)
 
@@ -42,4 +41,8 @@ You can also load the raw extension folder directly:
   - `src/shared/` — extraction + URL/media-kind utilities + storage helpers
 - **Build script**: `scripts/build-extension.cjs`
 - **Tests**: `tests/` (run with `npm test`)
+
+## Disclaimer
+
+This tool is intended for **personal use**. Please **respect the Terms of Service** of any website you use it on and only extract/download content you have the rights/permission to access.
 
