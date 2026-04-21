@@ -10,16 +10,9 @@ Extract images, GIFs, and videos from pasted HTML / CSS / JSON / plain text — 
 
 ## Demo video
 
-This demo shows how Scar can surface “hidden” media from `mobbin.com` by extracting direct image/GIF/video URLs from pasted HTML/JSON/CSS (including assets buried in payload fields like `screenUrl`). It doesn’t bypass paywalls — it just helps you pull the underlying asset URLs from content that’s already loaded in your browser (i.e., where you already have access).
+Scraping “hidden” media from `mobbin.com` (from content you already have access to).
 
-<details>
-<summary>Watch demo</summary>
-
-<!-- Put your video at assets/demo.mp4 -->
-<p align="center" width="100%">
-  <video src="Yassets/demo.mp4" width="80%" controls></video>
-</p>
-
+Demo: `https://x.com/inthecayenne/status/2045803863597261239?s=20`
 
 ## Disclaimer
 
