@@ -8,6 +8,16 @@ Browser extension: paste HTML or plain text, extract PNG URLs (`http(s)`, paths 
 ![Node](https://img.shields.io/badge/Node-20+-339933?logo=node.js&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?logo=googlechrome&logoColor=white)
 
+## Demo video
+
+- **Video link**: `PASTE_DEMO_VIDEO_URL_HERE`
+
+<details>
+<summary>Embed snippet (optional)</summary>
+
+<video src="PASTE_DEMO_VIDEO_URL_HERE" controls muted playsinline style="max-width: 100%;"></video>
+</details>
+
 ## Install (development / unpacked)
 
 ### Chrome or Edge
