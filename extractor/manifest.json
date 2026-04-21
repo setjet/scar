@@ -3,6 +3,7 @@
   "name": "Scar",
   "version": "1.0.0",
   "description": "Extract media from HTML, TSX, CSS, and JSON.",
+  "homepage_url": "https://github.com/setjet/scar",
   "action": {
     "default_popup": "popup.html",
     "default_title": "Scar",
